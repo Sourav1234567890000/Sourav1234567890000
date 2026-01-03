@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Sourav1234567890000/Sourav1234567890000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Sourav 👋
 
-Here are some ideas to get you started:
+Frontend / Full-Stack Developer with 1+ year of experience in React, TypeScript, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+- Axiom-Style Trading Dashboard (React, TypeScript)
+- DAG-Based Pipeline Builder (Workflow Engine)
+- Kubernetes Credentials Management System (Full Stack)
+
+### 🛠 Tech Stack
+React • TypeScript • JavaScript • Node.js • MongoDB • REST APIs • Git • Docker (basics)
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/sourav-singh-negi-277201238/
+- YouTube (Project Demos): https://www.youtube.com/watch?v=yzCFeyy6Rpo&t=5s
+
